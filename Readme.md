@@ -23,7 +23,7 @@ b) [Google Sheet](https://docs.google.com/spreadsheets/d/1bisKMNywxr-SMfI6ju_TQ8
 **Cevap:**  y=21,7391x + 0,2391
 
 c) Elle çizdiğiniz grafik orijinden geçmiyor.  *x=0* iken *y=0* değil. *x=0* iken *y* nedir? Sizce neden orjinden geçmiyor?
-**Cevap:** y=-0,025  
+**Cevap:** y=-0,025  Orijinden geçmez. Çünkü yayın kendi ağırlığından dolayı uyguladığı bir kuvvet var. 
 
 
 
